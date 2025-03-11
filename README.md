@@ -107,7 +107,7 @@ URL : http://public-ip:port/
 
 # Step - 9 : Redirect Domain to IP #
 
-# Step - 9 : SSL certificate #
+# Step - 10 : SSL certificate #
 *If you using Cloudfare to host your domain, please turn off proxy or allow full (strict) by 
 - In the SSL/TLS > Overview tab, use Full (strict)
 - In the SSL/TLS > Edge Certificates tab, enable Always use HTTPS <br>
