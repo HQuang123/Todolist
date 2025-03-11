@@ -103,14 +103,14 @@ sudo docker version
 URL : http://public-ip:port/
 	
 
-# Step - 7 : Nginx webserver #
+# Step - 8 : Nginx webserver #
 
-# Step - 8 : Domain #
+# Step - 9 : Redirect Domain to IP #
 
 # Step - 9 : SSL certificate #
 *If you using Cloudfare to host your domain, please turn off proxy or allow full (strict) by 
 - In the SSL/TLS > Overview tab, use Full (strict)
-- In the SSL/TLS > Edge Certificates tab, enable Always use HTTPS 
+- In the SSL/TLS > Edge Certificates tab, enable Always use HTTPS <br>
 to avoid web site redireting too many times. By using this, you can let the Cloudfare to always use HTTPS when contacting your origin server
 
 ## 📧 Contact
