@@ -2,7 +2,7 @@
   <img src="src/main/webapp/images/readme.png" alt="Project Screenshot" width="800">
 </p>
 
-[Link project: To do list](https://todolist.huynq.site/Todolist)
+[Link website: To do list](https://todolist.huynq.site/Todolist)
 
 # 📖To do list
 
